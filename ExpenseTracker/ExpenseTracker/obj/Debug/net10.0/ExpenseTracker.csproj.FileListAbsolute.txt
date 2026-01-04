@@ -1,0 +1,14 @@
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.exe
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.deps.json
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.runtimeconfig.json
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.dll
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net10.0\ExpenseTracker.pdb
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.AssemblyInfo.cs
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.dll
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\refint\ExpenseTracker.dll
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.pdb
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ExpenseTracker.genruntimeconfig.cache
+C:\Users\ak180\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net10.0\ref\ExpenseTracker.dll
