@@ -8,7 +8,7 @@ This project is ideal for beginners to understand C# fundamentals, file handling
 
 🚀 Features
 
-Add new expenses with amount, category, date, and description.
+Add new expenses with amount, category, date, and description
 
 View all expenses in a structured format
 
