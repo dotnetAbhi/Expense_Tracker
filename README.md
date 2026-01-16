@@ -26,4 +26,4 @@ Language: C#
 
 Framework: .NET (Console Application).
 
-IDE: Visual Studio.
+IDE: Visual Studio
