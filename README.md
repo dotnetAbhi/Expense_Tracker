@@ -4,7 +4,7 @@
 The Expense Tracker is a .NET Console Application designed to help users manage their daily expenses efficiently.
 It allows users to add, view, update, and delete expenses, providing a simple way to track spending habits directly from the console.
 
-This project is ideal for beginners to understand C# fundamentals, file handling, and console-based application flow.
+This project is ideal for beginners to understand C# fundamentals, file handling, and console-based application flow
 
 
 🚀 Features
