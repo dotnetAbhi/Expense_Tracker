@@ -6,6 +6,7 @@ It allows users to add, view, update, and delete expenses, providing a simple wa
 
 This project is ideal for beginners to understand C# fundamentals, file handling, and console-based application flow.
 
+
 🚀 Features
 
 Add new expenses with amount, category, date, and description
